@@ -47,3 +47,13 @@ sudo systemctl restart xrdp
 ```
 
 ## 7/ Open rdp on windows and connect to
+
+
+## 8/ Reinstall terminal
+```
+sudo apt remove gnome-terminal
+```
+
+```
+sudo apt install gnome-terminal
+```
