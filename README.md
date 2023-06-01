@@ -13,6 +13,11 @@ sudo apt install xubuntu-desktop
 light dm
 ```
 
+```
+sudo dpkg-reconfigure lightdm
+
+```
+
 ## 3/ install xrdp
 ```
 sudo apt install xrdp
